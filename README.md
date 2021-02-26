@@ -1,5 +1,7 @@
 # mesh-hackathon-example-submission
 
+Beispiel-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
+
 # Titel der Solution
 
 Titel
