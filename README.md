@@ -12,7 +12,7 @@ Slogan
 
 # Kurzbeschreibung der Solution und PowerPoint-Präsentation mit den Schlüsselbotschaften
 
-Solution / Prototyp Link / Documentation
+Solution / Prototyp Link / Documentation / Beschreibung
 
 # Name des Teams und der einzelnen Teammitglieder
 
